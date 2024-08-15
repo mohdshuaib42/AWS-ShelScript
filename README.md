@@ -1,4 +1,4 @@
-# AWS-ShelScript
+# AWS-ShellScript
 Latest project for beginners to master Shell script and aws
 Here’s a simple README file for your project:
 
